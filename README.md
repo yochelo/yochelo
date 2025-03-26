@@ -8,7 +8,7 @@ Soy una persona curiosa y detallista, que disfruta mejorar sistemas, automatizar
 
 - 📊 **Análisis de Inventarios**: Módulo que transforma datos en decisiones a través de gráficos y consultas.
 
-- 🤖 Bot de Carga de Insumos: Automatiza el ingreso de insumos al sistema a partir de pedidos físicos. El flujo incluye: OCR desde celular → API móvil en Kotlin (Puente) → API PC con HTML + JS para modular datos → Bot en Python con Selenium que carga automáticamente los insumos al sistema cerrado en SIGHEOS.
+- 🤖 Bot de Carga de Insumos: Automatiza el ingreso de insumos al sistema a partir de pedidos físicos. El flujo incluye: OCR desde celular → API móvil en Kotlin (Puente) → API PC con HTML + JS para modular datos → Bot en Python con Selenium que carga automáticamente los insumos al sistema cerrado SIGHEOS.
 
 - 📦 Bot de Despachos Biomédicos: Automatiza el despacho de insumos en el sistema cerrado SIGHEOS mediante Selenium. Toma los resultados generados por consola, los transforma en archivos JSON estructurados y los sincroniza con una API de Google Drive para su posterior análisis y trazabilidad.
 
