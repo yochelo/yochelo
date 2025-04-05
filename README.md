@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Marce
+# ¡Hola! Soy Marce
 
 Soy una persona curiosa y detallista, que disfruta mejorar sistemas, automatizar procesos y convertir el caos en orden. Actualmente estoy estudiando **Análisis y Ciencia de Datos** en **I.S.T.E.A. (Instituto Superior Tecnológico Empresarial Argentino)**, y ya desarrollé herramientas reales que optimizan el trabajo en hospitales.
 
