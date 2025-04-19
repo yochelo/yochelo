@@ -18,7 +18,6 @@ Soy una persona curiosa y detallista, que disfruta mejorar sistemas, automatizar
 - Automatización y bots que alivian el trabajo repetitivo  
 - SQL, dashboards y análisis de datos  
 - Machine Learning (me está empezando a enamorar 💘)  
-- Proyectos que dejan huella
 
 ## 📚 En formación
 
@@ -31,4 +30,3 @@ Soy una persona curiosa y detallista, que disfruta mejorar sistemas, automatizar
 Mi objetivo es dejar marca en cada lugar por el que paso.  
 No me conformo con que algo "funcione": quiero que funcione mejor.
 
-> *"No vine a adaptarme. Vine a cambiar lo que no tiene sentido."*
