@@ -4,9 +4,9 @@ Soy una persona curiosa y detallista, que disfruta mejorar sistemas, automatizar
 
 ## 🚀 Proyectos implementados en Hospital Álvarez de la Ciudad de Buenos Aires
 
-- ⚙️ **Gestión de Inventarios**: Interfaz Nativa para administrar stock. Importa Excel/Json → Genera Base de Batos → Modela los registros en el Front y Crea QR por ítem con Acceso Escaneable a su info →→ Logistica  
+- ⚙️ **Gestión de Inventarios**: Interfaz para administrar stock. Importa Excel/Json → Genera Base de Batos → Modela los registros en el Front y Crea QR por ítem con Acceso Escaneable a su info →→ Logistica  
 
-- 📊 **Análisis de Inventarios**: Módulo Nativo que transforma datos en decisiones a través de gráficos y consultas.
+- 📊 **Análisis de Inventarios**: Módulo que transforma datos en decisiones a través de gráficos y consultas.
 
 - 🤖 Bot de Carga de Insumos: Automatiza el ingreso de insumos al sistema a partir de pedidos físicos. El flujo incluye: OCR desde celular → API móvil en Kotlin → API PC con HTML + JS para modular datos → Bot en Python que carga automáticamente los insumos al Sistema Cerrado SIGHEOS.
 
